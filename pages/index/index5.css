@@ -1,0 +1,209 @@
+page {
+	background-color: #f8f8f8;
+}
+
+.color-red {
+	color: #FF3333;
+	width: 7px;
+}
+
+.button-hsjc {
+	font-size: 30upx;
+}
+
+.button-jzrq {
+	font-size: 30upx;
+}
+
+.color-red1 {
+	color: #FF3333;
+	width: 7px;
+	visibility: hidden;
+}
+
+.list {
+	display: flex;
+	flex-direction: column;
+	width: 95%;
+	margin: auto;
+	/* margin-top: 20upx; */
+	background: #ffffff;
+	padding-bottom: 20upx;
+	border-radius: 10upx;
+}
+
+.list-title {
+	width: 95%;
+	padding: 20upx;
+	display: flex;
+	font-size: 40upx;
+	font-weight: bold;
+	border-bottom: #007aff 2upx solid;
+	margin: auto;
+	margin-bottom: 20upx;
+}
+
+.list-title-label{
+	width: 60%;
+	display: inline-block;
+	text-align: right;
+}
+
+.list-item {
+	width: 100%;
+	padding: 5upx;
+	display: flex;
+	margin: auto;
+	font-size: 30upx;
+	align-items: center;
+	background-color: white;
+	border-bottom: #f8f8f8 15upx solid;
+}
+
+.list-selector {
+	width: 100%;
+	padding: 5upx;
+	display: flex;
+	margin: auto;
+	font-size: 30upx;
+	align-items: center;
+	background-color: white;
+	border-bottom: #f8f8f8 15upx solid;
+}
+
+.list-item input {
+	padding-left: 20upx;
+	padding-right: 20upx;
+	width: 70%;
+	height: 60upx;
+	font-size: 30upx;
+}
+
+.phoneInput {
+	padding-left: 20upx;
+	padding-right: 20upx;
+	width: 50% !important;
+	height: 60upx;
+	font-size: 30upx;
+}
+
+.list-item radio {
+	transform: scale(0.7);
+	margin-left: 10upx;
+	color: black;
+	font-size: 30upx;
+}
+
+.list-item radio-group {
+	width: 300upx;
+}
+
+.list-item uni-radio-group {
+	width: 280px;
+}
+
+.list-item textarea {
+	padding-left: 20upx;
+	padding-right: 20upx;
+	width: 70%;
+	height: 160upx;
+	color: black;
+	font-size: 30upx;
+}
+
+.xiala {
+	display: flex;
+	padding: 10upx;
+	color: #999999;
+	font-size: 30upx;
+
+}
+
+.xiala image {
+	display: flex;
+	padding-top: 5upx;
+	width: 30upx;
+	height: 30upx;
+	margin-left: 10upx;
+}
+
+.submitStyle {
+	width: 95%;
+	margin-top: 6px;
+}
+
+.nucleic-nothing {
+	font-size: 34upx;
+	color: blue;
+	padding: 10upx;
+	display: flex;
+	font-weight: bold;
+}
+
+.nucleic-thing {
+	font-size: 34upx;
+	border-bottom: #007aff 2upx solid;
+	padding: 10upx;
+	display: flex;
+	font-weight: bold;
+	margin-bottom: 10upx;
+}
+
+.cross-a {
+	height: 15upx;
+}
+
+.cross-b {
+	height: 15upx;
+}
+
+.nucleic-view {
+	font-size: 30upx;
+	margin-bottom: 4upx;
+}
+
+.resultStyle-yin {
+	color: green;
+	font-weight: bold;
+}
+
+.resultStyle-yang {
+	color: red;
+	font-weight: bold;
+}
+
+.instruction-dialog {
+
+margin-top: 10px;
+
+margin-bottom: 15px;
+
+height: 80%;
+
+}
+
+.instruction-dialog-content {
+
+color: #323232;
+
+padding: 15px;
+
+font-size: 11px;
+
+}
+
+.dialog-button-bg {
+
+background: white;
+
+text-align: center;
+
+position: fixed;
+
+left: 0px;
+
+right: 0px;
+
+bottom: 0px;
+
+}
